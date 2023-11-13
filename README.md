@@ -4,7 +4,7 @@ hello. I'm Jongsul
 FrontEnd Developer
 
 Angular, Ionic, React, NodeJS
-!(https://img.shields.io/badge/angular-0F0F11?style=flat&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/angular-0F0F11?style=flat&logo=angular&logoColor=white)
 
 ### Career
 - Nverse (2021 ~ )
