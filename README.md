@@ -11,6 +11,8 @@ FrontEnd Developer
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=white)
 
 ### Career
-- Nverse (2021 ~ )
+- AstronSecurity(2025)
+- Emforce (2024 ~ 2025)
+- Nverse (2021 ~ 2024)
 - Good City (2020 ~ 2021)
 - AramIn (2017 ~ 2020)
